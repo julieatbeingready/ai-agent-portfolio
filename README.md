@@ -16,7 +16,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Professional blog structure and formatting
 - SEO-friendly content creation
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/blog-post-content-generator--being-ready-c5108d98/run)
+[🔗 Try it out](https://app.mindstudio.ai/agents/blog-post-content-generator--being-ready-c5108d98)
 
 ---
 
