@@ -61,7 +61,8 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Automatic posting capability
 - Professional tone and formatting
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/create-and-approve-a-linkedin-post--being-ready-f9c4c03f)
+[🔗 Try it out](https://app.mindstudio.ai/agents/create-and-approve-a-linkedin-post--being-ready--968a13b0/run)
+)
 
 ---
 
@@ -76,7 +77,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Support for multiple document types
 - Team collaboration features
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/document-faq-helper--being-ready-b9edb934)
+[🔗 Try it out](https://app.mindstudio.ai/agents/document-faq-helper--being-ready-4174a564/run)
 
 ---
 
@@ -91,7 +92,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Discussion summary generation
 - Time-efficient email management
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/email-tldr--being-ready-b3d39300)
+[🔗 Try it out](https://app.mindstudio.ai/agents/email-tldr--being-ready-5e5ecadb/run)
 
 ---
 
@@ -106,7 +107,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Contact information organization
 - Conference and event optimization
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/extract-people--contact-details---google-sheets--being-ready-8cb61bf8)
+[🔗 Try it out](https://app.mindstudio.ai/agents/extract-people--contact-details---google-sheets--being-ready-2e2ff387/run)
 
 ---
 
@@ -151,7 +152,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Alert notification system
 - Scheduled monitoring capabilities
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/monitor-website-changes--being-ready--e35d5d37)
+[🔗 Try it out](https://app.mindstudio.ai/agents/monitor-website-changes--being-ready--73038988/run)
 
 ---
 
@@ -166,7 +167,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Sales optimization
 - Lead generation support
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/outreach-email-generator--being-ready--849911ab)
+[🔗 Try it out](https://app.mindstudio.ai/agents/outreach-email-generator--being-ready--3fc9082c/run)
 
 ---
 
@@ -181,7 +182,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Brand voice customization
 - Communication consistency
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/professional-email-composer-being-ready--04ac78b4)
+[🔗 Try it out](https://app.mindstudio.ai/agents/professional-email-composer-being-ready--be3d9b96/run)
 
 ---
 
@@ -196,7 +197,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Comprehensive topic analysis
 - Report formatting and structure
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/research-report-generator-by-being-ready--df95f72b)
+[🔗 Try it out](https://app.mindstudio.ai/agents/research-report-generator-by-being-ready--3efe51ad/run)
 
 ---
 
@@ -211,7 +212,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Key point summarization
 - Audience insight extraction
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/summarize-youtube-video--comments--being-ready-3f42b52e)
+[🔗 Try it out](https://app.mindstudio.ai/agents/summarize-youtube-video--comments--being-ready-86557aOf/run)
 
 ---
 
