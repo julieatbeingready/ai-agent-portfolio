@@ -212,7 +212,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Key point summarization
 - Audience insight extraction
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/summarize-youtube-video--comments--being-ready-86557aOf/run)
+[🔗 Try it out](https://app.mindstudio.ai/agents/summarize-youtube-video--comments--being-ready-86557a0f/run)
 
 ---
 
