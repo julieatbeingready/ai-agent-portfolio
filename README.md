@@ -182,7 +182,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Brand voice customization
 - Communication consistency
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/professional-email-composer-being-ready--be3d9b96/run)
+[🔗 Try it out](https://app.mindstudio.ai/agents/professional-email-composer-being-ready--be3d9b96)
 
 ---
 
