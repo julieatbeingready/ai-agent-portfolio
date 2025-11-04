@@ -96,21 +96,6 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 
 ---
 
-### Extract People Details → Google Sheets @ Being Ready
-**Description**: Extract information about people from websites and automatically save that information into Google Sheets.
-
-**Use Case**: Event organizers and sales teams can quickly compile contact information from conference websites or speaker listings into organized spreadsheets.
-
-**Key Features:**
-- Automated data extraction
-- Google Sheets integration
-- Contact information organization
-- Conference and event optimization
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/extract-people--contact-details---google-sheets--being-ready-2e2ff387/run)
-
----
-
 ### FAQ Generator @ Being Ready
 **Description**: Generate a comprehensive list of potential questions for any webpage you are viewing.
 
@@ -137,7 +122,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Email delivery automation
 - Personalized news curation
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/generate-daily-news-digest-being-ready-ai-3f5ff4fe)
+[🔗 Try it out](https://app.mindstudio.ai/agents/generate-daily-news-digest-being-ready-ai-344bf8c8)
 
 ---
 
