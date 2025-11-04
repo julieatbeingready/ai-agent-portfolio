@@ -197,7 +197,7 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 - Comprehensive topic analysis
 - Report formatting and structure
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/research-report-generator-by-being-ready--3efe51ad/run)
+[🔗 Try it out](https://app.mindstudio.ai/agents/research-report-generator-by-being-ready--3efe51ad)
 
 ---
 
