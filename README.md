@@ -6,6 +6,23 @@ Welcome to my collection of AI agents designed to streamline workflows, enhance 
 
 ## 🚀 Featured AI Agents
 
+### AI Ready Brand Voice Blueprint @ Being Ready  
+**Description**: Analyzes your existing business communications and generates ready-to-use system instructions that make any AI tool — ChatGPT, Claude, Gemini, or custom agents — produce content that sounds like you, not like a robot. Built for small business owners who want AI productivity without losing their authentic voice.
+
+**Use Case**: Small business owners and solopreneurs who are already using AI tools but getting generic, off-brand outputs. Upload 3 to 5 samples of your own writing — emails, social posts, proposals — and receive a detailed brand voice analysis plus drop-in system instructions ready to paste into any AI tool. No technical expertise required.
+
+**Key Features:**
+ - Analyzes tone, word choice, values, and communication patterns from real writing samples
+ - Generates ready-to-use system instructions for ChatGPT, Claude, Gemini, and custom agents
+ - Produces consistent, on-brand AI outputs across emails, social content, proposals, and website copy
+ - No technical setup required — paste instructions into any AI tool in under two minutes
+ - Built on the Being Ready AI literacy framework — accessible, practical, and safety-conscious
+ - Coming soon: Claude Skills .md file for drop-in implementation
+
+[🔗 Try it out]
+
+---
+
 ### Blog Post Generator @ Being Ready  
 **Description**: Generate first draft blog content for a webpage with professional quality and structure.
 
